@@ -1,4 +1,4 @@
 frg
 main branch details
-foo bar
+foo bar2
 just a change
