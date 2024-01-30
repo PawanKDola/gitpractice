@@ -1,1 +1,2 @@
 This is the sample test file
+Sample change to replicate merge conflict
