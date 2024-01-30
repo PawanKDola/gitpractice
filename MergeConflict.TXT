@@ -1,1 +1,2 @@
+Merge Conflict changes to be commited
 This is the sample test file
